@@ -71,7 +71,5 @@ Let's connect to collaborate and explore the future of technology together. I be
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravv17&layout=compact" alt="sauravv17"/></p>
 <h3 align="left">GitHub Stats</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravv17&show_icons=true" alt="sauravv17" /></p>
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sauravv17&theme=react-dark" alt="GitHub Commits Graph" />
-</p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sauravv17&show_icons=true" alt="sauravv17" /></p>
+
